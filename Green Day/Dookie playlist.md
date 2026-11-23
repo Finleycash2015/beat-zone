@@ -1,15 +1,1 @@
-Dookie playlist
-[14. F.O.D..mp3](https://github.com/user-attachments/files/35254903/14.F.O.D.mp3)
-[04. Long View.mp3](https://github.com/user-attachments/files/35254875/04.Long.View.mp3)
-[05. Welcome To Paradise.mp3](https://github.com/user-attachments/files/35254860/05.Welcome.To.Paradise.mp3)
-[07. Basket Case.mp3](https://github.com/user-attachments/files/35254842/07.Basket.Case.mp3)
-[10. When I Come Around.mp3](https://github.com/user-attachments/files/35254832/10.When.I.Come.Around.mp3)
-[03. Chump.mp3](https://github.com/user-attachments/files/35254819/03.Chump.mp3)
-[02. Having A Blast.mp3](https://github.com/user-attachments/files/35254809/02.Having.A.Blast.mp3)
-[09. Sassafras Roots.mp3](https://github.com/user-attachments/files/35254800/09.Sassafras.Roots.mp3)
-[06. Pulling Teeth.mp3](https://github.com/user-attachments/files/35254787/06.Pulling.Teeth.mp3)
-[08. She.mp3](https://github.com/user-attachments/files/35254777/08.She.mp3)
-[01. Burnout.mp3](https://github.com/user-attachments/files/35254772/01.Burnout.mp3)
-[13. In The End.mp3](https://github.com/user-attachments/files/35254764/13.In.The.End.mp3)
-[12. Emenius Sleepus.mp3](https://github.com/user-attachments/files/35254756/12.Emenius.Sleepus.mp3)
-[11. Coming Clean.mp3](https://github.com/user-attachments/files/35254752/11.Coming.Clean.mp3)
+
